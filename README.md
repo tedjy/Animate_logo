@@ -25,5 +25,4 @@ npm run dev
 3️ Personnaliser l'image du logo
 Modifie la propriété headImage dans BouncingLogo.js pour utiliser ton propre visuel
 
-https://github.com/user-attachments/assets/194c7dee-b4c0-46de-a492-c64f76845aad
-
+![Recording 2025-03-13 184542](https://github.com/user-attachments/assets/cd60ab43-eff9-44ec-9ce0-1421e33f3560)
